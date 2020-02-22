@@ -1,0 +1,25 @@
+{
+  "name": "robot-delivery",
+  "version": "1.0.0",
+  "description": "A program that builds an automaton, a little program that performs a task in a virtual world using Graph Theory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SantiagoGuerra/robot-delivery.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SantiagoGuerra/robot-delivery/issues"
+  },
+  "homepage": "https://github.com/SantiagoGuerra/robot-delivery#readme",
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.0.0",
+    "eslint-plugin-import": "^2.20.1"
+  }
+}
